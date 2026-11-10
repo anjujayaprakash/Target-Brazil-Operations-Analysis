@@ -28,7 +28,7 @@ Target is a global retail giant. This project analyzes their Brazilian operation
 
 ####    RECOMMENDATIONS WITH ANALYSIS
 
-* #### 1. Demand and seasonality
+ #### 1. Demand and seasonality
 
   **Analysis:** Orders grew from 800 in Jan 2017 to a peak of 7,544 in Nov 2017, then dropped to 5,673 in Dec.
   **Comments:** Build inventory, staffing and logistics capacity ahead of Q4, especially November. Run campaigns in the weaker months (Jan to Apr) to smooth demand.
@@ -39,8 +39,7 @@ Target is a global retail giant. This project analyzes their Brazilian operation
 
   #### 3. Delivery and logistics
 **Analysis: (1)** Northern states have the slowest deliveries (RR ~29 days, AP ~27, AM ~26), while SP takes ~8 days.
-**Comments:** Partner with regional carriers or set up fulfillment hubs for the North and Northeast. Consider consolidating shipments to reduce transit time.
-* **Analysis: (2)** The states with the longest deliveries (AC, RO, AP, AM, RR) are also the ones delivered 16 to 20 days before the estimate.
+**Comments:** Partner with regional carriers or set up fulfillment hubs for the North and Northeast. Consider consolidating shipments to reduce transit time. ## **Analysis: (2)** The states with the longest deliveries (AC, RO, AP, AM, RR) are also the ones delivered 16 to 20 days before the estimate.
 **Comments:** Delivery estimates there are heavily padded. Tightening them would make the promise more competitive and improve conversion, as long as reliability holds.
 
  #### 4. Freight pricing
