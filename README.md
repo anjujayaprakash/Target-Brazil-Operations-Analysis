@@ -34,12 +34,13 @@ Target is a global retail giant. This project analyzes their Brazilian operation
   **Comments:** Build inventory, staffing and logistics capacity ahead of Q4, especially November. Run campaigns in the weaker months (Jan to Apr) to smooth demand.
 
   #### 2. Time-of-day behaviour
-    **Analysis:** Afternoon has 38,135 orders, then night (28,331), morning (27,733) and dawn (5,242).
+**Analysis:** Afternoon has 38,135 orders, then night (28,331), morning (27,733) and dawn (5,242).
 **Comments:** Schedule push notifications, flash sales and email campaigns for the afternoon and evening. Staff customer support for those peaks. Dawn is a low-traffic window suited to maintenance or system updates.
 
   #### 3. Delivery and logistics
 **Analysis: (1)** Northern states have the slowest deliveries (RR ~29 days, AP ~27, AM ~26), while SP takes ~8 days.
-**Comments:** Partner with regional carriers or set up fulfillment hubs for the North and Northeast. Consider consolidating shipments to reduce transit time. ## **Analysis: (2)** The states with the longest deliveries (AC, RO, AP, AM, RR) are also the ones delivered 16 to 20 days before the estimate.
+**Comments:** Partner with regional carriers or set up fulfillment hubs for the North and Northeast. Consider consolidating shipments to reduce transit time.  
+**Analysis: (2)** The states with the longest deliveries (AC, RO, AP, AM, RR) are also the ones delivered 16 to 20 days before the estimate.
 **Comments:** Delivery estimates there are heavily padded. Tightening them would make the promise more competitive and improve conversion, as long as reliability holds.
 
  #### 4. Freight pricing
